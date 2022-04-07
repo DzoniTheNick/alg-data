@@ -1,4 +1,4 @@
-# Program descriptio
+# Program description
 	This project consists of multiple mini projects which I had to do for my Algorithms and Data Structures class
 
 # How to compile
