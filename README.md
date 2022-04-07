@@ -1,5 +1,5 @@
-# alg-data
-This project consists of multiple mini projects which I had to do for my Algorithms and Data Structures class
+# Program descriptio
+	This project consists of multiple mini projects which I had to do for my Algorithms and Data Structures class
 
 # How to compile
 	Make sure that you have Java Software Development Kit (Java SDK) on your machine [link: https://www.oracle.com/java/technologies/downloads/]
